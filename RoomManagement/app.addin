@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<RevitAddIns>
+
+	<AddIn Type="Application">
+
+		<Name>Room Management</Name>
+
+		<FullClassName>LinkSelection.RevitCommands.MainApp</FullClassName>
+
+		<Text>Link Selection</Text>
+
+		<Description></Description>
+
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+
+		<Assembly>RoomManagement.dll</Assembly>
+
+		<AddInId>
+			71B8D076-7F1D-46E9-B345-E044D925CB2C
+		</AddInId>
+
+		<VendorId>EsraaSalah</VendorId>
+
+		<VendorDescription>Esraa Salah, BIM Engineer, Revit Developer</VendorDescription>
+
+	</AddIn>
+
+</RevitAddIns>
